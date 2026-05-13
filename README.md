@@ -120,7 +120,7 @@ Lors d'une rotation d'écran, Android recrée l'`Activity`. Le `TaskViewModel`, 
 
 ### Test 1 — Insertion simple
 
-**Scénario :** Ajouter trois tâches successives.  
+**Scénario :** Ajouter deux tâches successives.  
 **Résultat attendu :** Les deux tâches s'affichent immédiatement dans la liste.
 
 [Ajout (2).webm](https://github.com/user-attachments/assets/92d6fd6c-983c-4d37-81a5-caa98a967cca)
